@@ -7,6 +7,7 @@ void setup()
 {
   //empty
 }
+
 void loop() 
 {
   DigiKeyboard.sendKeyStroke(0);
