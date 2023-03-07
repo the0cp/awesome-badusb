@@ -3,7 +3,7 @@
 
   DigiSpark sketches for the Arduino IDE that utilize the `DigiKeyboard.h` library making the DigiSpark to act as a keyboard and execute a variety of actions.
   
-Visit <a href='https://theodorecooper.github.io/pentest/2022-badusb/'>https://theodorecooper.github.io/pentest/2022-badusb/</a> for more informations.
+Visit <a href='https://the0cp.github.io/pentest/2022-badusb/'>https://theodorecooper.github.io/pentest/2022-badusb/</a> for more informations.
 
 ## LEGAL NOTICE
 THESE SOFTWARES AND SCRIPTS ARE PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY WE DO NOT TAKE ANY RESPONSIBILITY FOR IT. BY USING THESE SOFTWARES AND SCRIPTS YOU AGREE WITH THESE TERMS.
@@ -14,10 +14,10 @@ THESE SOFTWARES AND SCRIPTS ARE PROVIDED FOR EDUCATIONAL USE ONLY! IF YOU ENGAGE
 - Download one of scripts, open with Arduino IDE and upload it to the DigiSpark board.
 
 ## Diagram
-<img src = 'https://github.com/theodorecooper/awesome-badusb/blob/main/diagram.png'><img>
+<img src = 'https://github.com/the0cp/awesome-badusb/blob/main/diagram.png'><img>
 
 ## Pinout
-<img src = 'https://github.com/theodorecooper/awesome-badusb/blob/main/pinout.png'><img>
+<img src = 'https://github.com/the0cp/awesome-badusb/blob/main/pinout.png'><img>
 
 ## More about Digispark
-<a href='https://theodorecooper.github.io/pentest/2022-badusb/'>https://theodorecooper.github.io/pentest/2022-badusb/</a>
+<a href='https://the0cp.github.io/pentest/2022-badusb/'>https://the0cp.github.io/pentest/2022-badusb/</a>
